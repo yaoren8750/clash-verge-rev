@@ -130,7 +130,7 @@
     "vite-plugin-svgr": "^5.2.0",
     "vitest": "^4.1.10",
     "webdriverio": "9.30.0",
-    "ws": "8.19.0"
+    "ws": "8.21.0"
   },
   "lint-staged": {
     "*.{ts,tsx,js,mjs}": [
@@ -142,5 +142,5 @@
     ]
   },
   "type": "module",
-  "packageManager": "pnpm@12.3.3"
+  "packageManager": "pnpm@12.3.4"
 }
